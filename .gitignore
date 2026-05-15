@@ -1,0 +1,11 @@
+venv/
+__pycache__/
+*.pyc
+.env
+storage/cache/
+storage/exports/
+*.mp4
+*.mov
+*.avi
+node_modules/
+.DS_Store
